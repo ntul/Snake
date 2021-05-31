@@ -1,0 +1,221 @@
+{
+    "m_SelectedDeviceId": "ZY326NDLN2",
+    "m_SelectedPackage": {
+        "deviceId": "ZY326NDLN2",
+        "name": "com.DefaultCompany.Snake",
+        "processId": 30885,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 23693,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 24103,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 24489,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 25272,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 25678,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 26390,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 26745,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 27212,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 27768,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 28007,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 28393,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 28770,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 29188,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 29718,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 30148,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 30532,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 30996,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 31470,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 32180,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 735,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 1237,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 18460,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 2380,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 29700,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 30277,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY326NDLN2",
+            "name": "com.DefaultCompany.Snake",
+            "processId": 30885,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

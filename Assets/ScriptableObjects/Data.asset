@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f7bcdc1129e2442a83f93237c9658a, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  defaultMoveSpeed: 12
+  defaultTurnSpeed: 700
+  moveSpeed: 12
+  turnSpeed: 700
+  feverSpeedMultiplier: 1.5
+  trackLength: 70
+  obstaclesOffset: 0.75
+  winGates: 9
+  dudesMinPos: 0.3
+  dudesMaxPos: 0.6
+  dudesXoffset: 1
+  dudesYoffset: 1
+  dudeScore: 0
+  diamondScore: 0
+  gateMat: {fileID: 2100000, guid: 515fa9b41041ad24ebc1cbe0aa5d3cc5, type: 2}
+  snakeMat: {fileID: 2100000, guid: 3e5a0ce4c5efd3645a1706213dc23509, type: 2}
+  dudeMat: {fileID: 2100000, guid: 90563faacf9c73e48a2aff9fe416ad99, type: 2}
+  isFever: 0
+  isGameOver: 0
+  baseColors:
+  - {r: 0.8275633, g: 0, b: 1, a: 0}
+  - {r: 0, g: 0.0377028, b: 1, a: 0}
+  - {r: 1, g: 0.7058532, b: 0, a: 0}
+  - {r: 0.13756847, g: 1, b: 0, a: 0}
+  - {r: 0, g: 1, b: 0.7739825, a: 0}
+  - {r: 1, g: 0, b: 0.039559364, a: 0}
